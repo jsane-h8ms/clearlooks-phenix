@@ -163,3 +163,4 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 - [Clearlooks XFWM4](http://xfce-look.org/content/show.php/Clearlooks+for+XFWM4?content=137055) theme, under GPL.
 
 - Files in `wallpapers`, based on an [image from volvoguy](http://gnome-look.org/content/show.php?content=22210), under GPL.
+
